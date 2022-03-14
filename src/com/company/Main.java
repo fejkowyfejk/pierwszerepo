@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("szybki test");
-        //test
+        System.out.println("test2");
     }
 }
