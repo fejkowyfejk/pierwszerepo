@@ -6,5 +6,6 @@ public class Main {
         System.out.println("szybki test");
         System.out.println("Slack Jakub");
         System.out.println("Slack Bartosz");
+        System.out.println("Slack Bartosz_Okoń");
     }
 }
